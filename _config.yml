@@ -1,9 +1,11 @@
 # Site settings
-title: test
+title: 三水
 email: ymh9509@163.com
-description: ""
+description: "三生万物 上善若水"
 baseurl: ""
 url: "http://sanshui.github.io"
+
+github_username : sanshuiyang
 
 # Build settings
 markdown: kramdown
